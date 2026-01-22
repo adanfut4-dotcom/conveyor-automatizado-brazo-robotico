@@ -1,0 +1,30 @@
+# Conveyor Automatizado con Brazo Robótico
+
+## Descripción
+Proyecto de automatización de un sistema tipo conveyor que integra un brazo robótico
+para la manipulación y colocación de tapas sobre botellas, utilizando sensores,
+relés y lógica de control.
+
+## Estado del proyecto
+Proyecto en desarrollo. Actualmente se cuenta con estaciones de detección y colocación.
+La tercera estación de cerrado se encuentra pendiente de implementación.
+
+## Componentes utilizados
+- Microcontroladores
+- Banda transportadora (conveyor)
+- Brazo robótico
+- Sensores
+- Relés
+- Bombas de agua y vacío
+- Fuente de alimentación
+
+## Funcionamiento general
+El sistema transporta botellas a través de distintas estaciones. El brazo robótico
+realiza la colocación de tapas, mientras que el sistema de control gestiona la
+secuencia del proceso mediante lógica de control.
+
+## Aprendizajes
+- Automatización de procesos
+- Control secuencial
+- Integración de sistemas mecánicos y electrónicos
+- Diseño de estaciones de trabajo
